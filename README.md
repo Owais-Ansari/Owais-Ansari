@@ -10,7 +10,7 @@ I am Owaish. I currently work as AI Research Engineer at Airamatrix to solve dig
 - 😄 Pronouns: ou-wais
 
 Currently I am Working on two projects:
-- Prostate gleason grading: built an automated gleason grading system using SOTA segmentation algorithms.
+- Prostate gleason grading: Built an automated gleason grading system using SOTA segmentation algorithms.
 - Organ Identification: Built an organ idenctification module for rodents using a instance segmentation and classification algorithm.
 
 
