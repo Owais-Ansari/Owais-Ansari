@@ -4,8 +4,8 @@
 I am Owaish. I currently work as AI Research Engineer at Airamatrix to solve digital histopathological problems using computer vision and deep learning algorithms.
 
 Currently I am Working on two projects:
-    - Prostate gleason grading:
-    - Organ Identification:
+- Prostate gleason grading: built an automated gleason grading system using SOTA segmentation algorithms.
+- Organ Identification: Built an organ idenctification module for rodents using a instance segmentation and classification algorithm.
 
 
 
