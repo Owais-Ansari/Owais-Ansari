@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on giga-pixels images using computer vision and deep learning algorithms
 - 🌱 I’m currently learning NLP, MLOPs
