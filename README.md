@@ -16,6 +16,9 @@ I am Owaish, expert in computer vision. I currently work as AI Research Engineer
 
 #### About me!
 
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" align='right' />
+</br>
 
 - 🔭 I work on giga-pixels images using computer vision and deep learning algorithms.
 - 🌱 I’m interested in NLP and MLOPS.
