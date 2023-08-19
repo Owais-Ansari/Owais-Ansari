@@ -13,9 +13,6 @@ I am Owaish, expert in Computer Vision and Machine Learning. I currently work as
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Owais-Ansari.Owais-Ansari)
 [![GitHub followers](https://img.shields.io/github/followers/Owais-Ansari.svg?style=social&label=Follow)](https://github.com/Owais-Ansari?tab=followers)
-
-
-
 #### About me!
 <br>
 <img alt="Coder GIF" height=250 width=280 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" align=right>
