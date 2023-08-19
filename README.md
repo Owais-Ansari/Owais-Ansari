@@ -16,7 +16,7 @@ I am Owaish, expert in Computer Vision and Machine Learning. I currently work as
 
 #### About me!
 <br>
-<img alt="Coder GIF" height=250 width=280 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img alt="Coder GIF" height=250 width=280 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align = right>
 </br>
 
 - 🔭 I work on giga-pixels images using computer vision and deep learning algorithms.
