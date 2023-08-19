@@ -4,10 +4,10 @@
 I am Owaish, expert in computer vision. I currently work as AI Research Engineer to solve digital histopathological problems using computer vision and deep learning algorithms.
 
 
-<a href="https://www.linkedin.com/in/jitesh-jain-1451b9192/">
+<a href="https://www.linkedin.com/in/owaish-ansari/">
   <img align="left" alt="JJ's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://jitesh-j.medium.com/">
+<a href="https://medium.com/@owaish">
   <img align="left" alt="JJ's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
