@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Owaish, expert in computer vision. I currently work as AI Research Engineer to solve digital histopathological problems using Computer Vision and Machine learning algorithms.
+I am Owaish, expert in Computer Vision and Machine Learning. I currently work as AI Research Engineer to solve digital histopathological problems using Computer Vision and Machine learning algorithms.
 
 
 <a href="https://www.linkedin.com/in/owaish-ansari/">
