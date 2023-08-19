@@ -16,9 +16,6 @@ I am Owaish, expert in computer vision. I currently work as AI Research Engineer
 
 #### About me!
 
-<br>
-<img src='https://media.tenor.com/images/a53e378bb32fdbcabd28565ae799cfd5/tenor.gif?itemid=15912640' width="200px" align='right'>
-</br>
 
 - 🔭 I work on giga-pixels images using computer vision and deep learning algorithms.
 - 🌱 I’m interested in NLP and MLOPS.
