@@ -17,6 +17,7 @@ I am Owaish, expert in computer vision. I currently work as AI Research Engineer
 #### About me!
 
 <br>
+<img src='https://media.tenor.com/images/a53e378bb32fdbcabd28565ae799cfd5/tenor.gif?itemid=15912640' width="200px" align='right'>
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" align='right' />
 </br>
 
