@@ -15,7 +15,7 @@ I am Owaish, expert in Computer Vision and Machine Learning. I currently work as
 [![GitHub followers](https://img.shields.io/github/followers/Owais-Ansari.svg?style=social&label=Follow)](https://github.com/Owais-Ansari?tab=followers)
 #### About me!
 <br>
-<img alt="Coder GIF" height=250 width=275 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  align='top-right'/>
+<img alt="Coder GIF" height=250 width=275 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  align='top-right-corner'/>
 </br>
 
 - 🔭 I work on giga-pixels images using computer vision and deep learning algorithms.
