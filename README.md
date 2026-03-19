@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Owaish, expert in Computer Vision and Machine Learning. I currently work as AI Research Engineer to solve digital histopathological problems using Computer Vision and Machine learning algorithms.
+I am Owais, expert in Computer Vision and Machine Learning. I currently work as Senior Data Scientist to solve digital histopathological problems using Computer Vision, Machine learning algorithms and hosting as on Whole Slide Image Viewer Via Flask.
 
 
 <a href="https://www.linkedin.com/in/owaish-ansari/">
@@ -21,8 +21,7 @@ I am Owaish, expert in Computer Vision and Machine Learning. I currently work as
 - ⚡ "Attention Is All You Need" changed the world forever.
 - 🔭 I work on giga-pixels images using computer vision and deep learning algorithms.
 - 🌱 I’m interested in Multi-model AI, Mlops, Healthcare, Diagnosis, AI-safety.
-- 💬 Always up for deep conversations on AI—from deep learning to autonomous systems—and its impact on healthcare, education, jobs, and the ethical risks it brings.
- 
+- 💬 Always up for deep conversations on AI—from deep learning to autonomous systems—and its impact and concers.
 - 📫 How to reach me: owaish.salim@gmail.com
 
 
