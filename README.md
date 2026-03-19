@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Owais, expert in Computer Vision and Machine Learning. I currently work as Senior Data Scientist to solve digital histopathological problems using Computer Vision, Machine learning algorithms and hosting as on Whole Slide Image Viewer Via Flask.
+I am Owais, expert in Computer Vision and Machine Learning. I work as Senior Data Scientist to develop end-to-end solutions for digital histopathology using Computer Vision and Machine learning algorithms.
 
 
 <a href="https://www.linkedin.com/in/owaish-ansari/">
