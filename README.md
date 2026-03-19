@@ -18,11 +18,13 @@ I am Owaish, expert in Computer Vision and Machine Learning. I currently work as
 <img alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  align='right'/>
 </br>
 
+- ⚡ "Attention Is All You Need" changed the world forever.
 - 🔭 I work on giga-pixels images using computer vision and deep learning algorithms.
-- 🌱 I’m interested in NLP and MLOPS.
-- 💬 Ask me about AI, data science, machine learning, deep learning, Vision
+- 🌱 I’m interested in Multi-model AI, Mlops, Healthcare, Diagnosis, AI-safety.
+- 💬 Always up for deep conversations on AI—from deep learning to autonomous systems—and its impact on healthcare, education, jobs, and the ethical risks it brings.
+ 
 - 📫 How to reach me: owaish.salim@gmail.com
-- ⚡ Fun fact: The world system is a product of the mighty human imagination and trust!
+
 
 <!--</br>
 
