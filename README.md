@@ -21,7 +21,7 @@ I am Owais, expert in Computer Vision and Machine Learning. I work as Senior Dat
 - ⚡ "Attention Is All You Need"
 - 🔭 I work on giga-pixels images using computer vision and deep learning algorithms.
 - 🌱 I’m interested in Multi-model AI, Mlops, Healthcare, Diagnosis, AI-safety.
-- 💬 Always up for deep conversations on AI—from its impact to concers.
+- 💬 Always up for deep conversations on AI—from its impact to concerns.
 - 📫 How to reach me: owaish.salim@gmail.com
 
 
