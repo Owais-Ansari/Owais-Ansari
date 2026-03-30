@@ -18,7 +18,7 @@ I am Owais, expert in Computer Vision and Machine Learning. I work as Senior Dat
 <img alt="Coder GIF" height=200 width=300 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  align='right'/>
 </br>
 
-- ⚡ "Attention Is All You Need" changed the world forever.
+- ⚡ "Attention Is All You Need".
 - 🔭 I work on giga-pixels images using computer vision and deep learning algorithms.
 - 🌱 I’m interested in Multi-model AI, Mlops, Healthcare, Diagnosis, AI-safety.
 - 💬 Always up for deep conversations on AI—from its impact to concers.
